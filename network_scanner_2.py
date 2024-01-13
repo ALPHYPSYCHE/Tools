@@ -10,7 +10,7 @@ YELLOW = "\033[93m"
 RESET = '\033[0m'
 
 print()
-print(f"{PURPLE}----- WELCOME TO NETWORK SCANNER ------{RESET}")
+print(f"{PURPLE}----- WELCOME TO OP3N1T NETWORK SCANNER ------{RESET}")
 print()
 
 target_ip = "192.168.1.1/24"
